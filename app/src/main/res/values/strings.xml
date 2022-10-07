@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- signin strings -->
+
+    <string name="app_name">Hilla Restaurant and Cafe</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="_9_31_string">9:31</string>
+    <string name="welcome_to_hilla_string">Welcome to Hilla</string>
+    <string name="sign_in_string">Sign In</string>
+    <string name="google_string">Google</string>
+    <string name="email_string">Email</string>
+    <string name="password_string">Password</string>
+    <string name="don_t_have_acoount_string">Dont have acoount</string>
+    <string name="sign_using_string">Sign using</string>
+    <string name="Username">Username</string>
+    <string name="name">Name</string>
+    <string name="Password">Password</string>
+    <string name="LoginTitle">Welcome to Hilla</string>
+    <string name="dont">Don’t have acoount</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="using">Signin using</string>
+    <string name="google">Google</string>
+    <string name="Back">Back</string>
+    <string name="Register">Register</string>
+    <string name="email">Email</string>
+    <string name="line1">Address Line-1</string>
+    <string name="line2">Address Line-2</string>
+    <string name="city">City</string>
+    <string name="no">Phone no</string>
+    <string name="pin">Pincode</string>
+    <string name="already">Already have acoount</string>
+    <string name="reward">Reward</string>
+    <string name="point">Points</string>
+    <string name="tab_1">Orders</string>
+    <string name="tab_2">Take Away</string>
+    <string name="tab_3">Dine In</string>
+    <string name="search">Search</string>
+    <string name="orders">Orders</string>
+    <string name="tablebooking">Table Booking</string>
+    <string name="events">Events</string>
+    <string name="cart">Cart</string>
+    <string name="offer">offers</string>
+    <string name="welcome">Welcome Foodie:)</string>
+    <string name="fname">Fname</string>
+    <string name="lname">Lname</string>
+    <string name="menu">Menu</string>
+    <string name="deals">Deals and Offers</string>
+    <string name="vcart">View Cart</string>
+    <string name="orderhistory">Order History</string>
+    <string name="setting">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="aboutus">About Us</string>
+    <string name="myprofile">My Profile</string>
+    <string name="change">Change Photo</string>
+    <string name="address">Address</string>
+    <string name="points">100</string>
+    <string name="nill"> </string>
+    <string name="tblbooking">Table Booking</string>
+    <string name="tbl">Table</string>
+    <string name="banquet">Banquet</string>
+    <string name="innersitting">Innner Sitting:</string>
+    <string name="outersitting">Outer Sitting:</string>
+</resources>

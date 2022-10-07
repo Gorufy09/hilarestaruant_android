@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_orders"
+        android:icon="@drawable/ic_fastfood_black"
+        android:title="@string/orders"/>
+    <item
+        android:id="@+id/tab_tblbooking"
+        android:icon="@drawable/ic_table_black"
+        android:title="@string/tablebooking"/>
+    <item
+        android:id="@+id/tab_offers"
+        android:icon="@drawable/ic_offer"
+        android:title="@string/offer"
+        />
+    <item
+        android:id="@+id/tab_events"
+        android:icon="@drawable/ic_events"
+        android:title="@string/events"/>
+    <item
+        android:id="@+id/tab_cart"
+        android:icon="@drawable/ic_food_cart"
+        android:title="@string/cart"/>
+</menu>
