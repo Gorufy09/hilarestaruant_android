@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220767393537",
+    "firebase_url": "https://hilla-restaurant-cafe-default-rtdb.firebaseio.com",
+    "project_id": "hilla-restaurant-cafe",
+    "storage_bucket": "hilla-restaurant-cafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220767393537:android:4cd85e62e8a86c0c146d00",
+        "android_client_info": {
+          "package_name": "com.example.hillarestaurantcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220767393537-anvkegakll7v79l1290m0kotckrmhft1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklkB_IJHU8up6V73s3kyOMF9OF63p2Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220767393537-anvkegakll7v79l1290m0kotckrmhft1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
