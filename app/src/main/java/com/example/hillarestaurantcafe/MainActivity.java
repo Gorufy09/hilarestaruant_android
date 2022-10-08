@@ -27,9 +27,10 @@ public class MainActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        if (getSupportActionBar() != null) {
-            getSupportActionBar().hide();
-        }
+
+        //  removing actionbar in this activity
+        getSupportActionBar().hide();
+
 
         btn_profile = (ImageButton) findViewById(R.id.profile_btn);
         btn_profile.setOnClickListener(new View.OnClickListener() {

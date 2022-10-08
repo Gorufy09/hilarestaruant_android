@@ -74,6 +74,7 @@
         app:startIconTint="@color/black">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/uname"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:inputType="text"
@@ -109,6 +110,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout2">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/uemail"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:inputType="text"
@@ -144,6 +146,7 @@
         app:layout_constraintTop_toBottomOf="@id/textInputLayout5">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/uadd1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:inputType="text"
@@ -178,6 +181,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout4">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/uadd2"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:inputType="text"
@@ -212,6 +216,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout6">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/ucity"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:inputType="text"
@@ -245,6 +250,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout7">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/uphone"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:inputType="text"
@@ -278,6 +284,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout8">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/upincode"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:inputType="text"
@@ -312,6 +319,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout9">
 
     <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/upasswd"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:inputType="textPassword"

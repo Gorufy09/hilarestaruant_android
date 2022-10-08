@@ -40,7 +40,7 @@
     <string name="tablebooking">Table Booking</string>
     <string name="events">Events</string>
     <string name="cart">Cart</string>
-    <string name="offer">offers</string>
+    <string name="offer">Offers</string>
     <string name="welcome">Welcome Foodie:)</string>
     <string name="fname">Fname</string>
     <string name="lname">Lname</string>
@@ -61,4 +61,21 @@
     <string name="banquet">Banquet</string>
     <string name="innersitting">Innner Sitting:</string>
     <string name="outersitting">Outer Sitting:</string>
+    <string name="item_veggieslider">Veggie Slider</string>
+    <string name="item_schenzwanslider">Schenzwan Slider</string>
+    <string name="item_claicveg">Classic Veg</string>
+    <string name="item_falafelwrap">Falafel Wrap</string>
+    <string name="item_mexicanroll">Mexican Kathi Roll</string>
+    <string name="tbl_no_1">Table 1</string>
+    <string name="tbl_no_2">Table 2</string>
+    <string name="tbl_no_3">Table 3</string>
+    <string name="tbl_no_4">Table 4</string>
+    <string name="tbl_no_5">Table 5</string>
+    <string name="tbl_no_6">Table 6</string>
+    <string name="tbl_no_7">Table 7</string>
+    <string name="tbl_no_8">Table 8</string>
+    <string name="tbl_no_9">Table 9</string>
+    <string name="tbl_no_10">Table 10</string>
+    <string name="tblbkg_2_heading">Select Date and Time:</string>
+    <string name="tblbkg_2_txtbox_hint">Selet Date</string>
 </resources>
